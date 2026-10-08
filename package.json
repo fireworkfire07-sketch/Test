@@ -1,0 +1,9 @@
+{
+  "name": "tamirci-test-project",
+  "version": "1.0.0",
+  "description": "A small inventory calculator for testing Tamirci Polis.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
